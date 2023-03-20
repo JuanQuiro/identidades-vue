@@ -11,11 +11,11 @@ module.exports = {
         identidad: {
           words: [
             "Gatunas",
-            "Geek",
+            "Geeks",
             "Animalunas",
             "Anonimas",
-            "Freak",
-            "Devloper",
+            "Freaks",
+            "developers",
           ],
           delay: 1,
         },
